@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Elias Diaz**
+#  ¡Hola! Soy **Elias Diaz**
 
 <img src="foto.png" width="100" alt="Avatar" style="border-radius:50%;">
 
@@ -16,7 +16,7 @@
 ## 📝 Presentación
 
 ¡Hola! Soy **Elias Diaz**, estudiante de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería.  
-Me encanta aprender sobre programación, desarrollo web y tecnologías modernas.  
+Me gustaria fortalecer mis practicas sobre programación, desarrollo web y tecnologías modernas.  
 
 ---
 
@@ -35,4 +35,4 @@ Me encanta aprender sobre programación, desarrollo web y tecnologías modernas.
 
 ---
 
-✨ *Gracias por visitar mi perfil*
+ *Gracias por visitar mi perfil*
