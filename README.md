@@ -1,7 +1,9 @@
 # 👋 ¡Hola! Soy **Elias Diaz**
 
+![Avatar](https://via.placeholder.com/100x100.png?text=ED)
+
 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de Ingeniería (UNI)**.  
-💻 Actualmente estoy aprendiendo:
+💻 Me apasiona el desarrollo web y actualmente estoy aprendiendo:
 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-0ea5a4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server) 
 [![C#](https://img.shields.io/badge/C%23-3b82f6?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
@@ -11,16 +13,27 @@
 
 ---
 
-## ⚽ **Hobbies**
+## 📝 Presentación
+
+¡Hola! Soy **Elias Diaz**, estudiante de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería.  
+Me encanta aprender sobre programación, desarrollo web y tecnologías modernas.  
+
+---
+
+## ⚽ Hobbies
+
 - Fútbol  
 - Videojuegos  
 
 ---
 
-## 📫 **Contacto**
-- **GitHub:** [github.com/Elidiaz245](https://github.com/Elidiaz245)
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
+## 📫 Contacto
+
+- **GitHub:** [github.com/Elidiaz245](https://github.com/Elidiaz245)  
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)  
+- **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)  
 
 ---
 
-✨ *Gracias por visitar mi perfil.*
+✨ *Gracias por visitar mi perfil*
+
