@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Elias Diaz**
 
-![Avatar](foto.png)
+<img src="foto.png" width="100" alt="Avatar" style="border-radius:50%;">
 
 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de Ingeniería (UNI)**.  
 💻 Me apasiona el desarrollo web y actualmente estoy aprendiendo:
@@ -36,4 +36,3 @@ Me encanta aprender sobre programación, desarrollo web y tecnologías modernas.
 ---
 
 ✨ *Gracias por visitar mi perfil*
-
