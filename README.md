@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Elias Diaz**
 
-![Avatar](https://via.placeholder.com/100x100.png?text=ED)
+![Avatar](logo.png)
 
 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de Ingeniería (UNI)**.  
 💻 Me apasiona el desarrollo web y actualmente estoy aprendiendo:
