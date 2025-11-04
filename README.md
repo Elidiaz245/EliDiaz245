@@ -30,8 +30,8 @@ Me gustaria fortalecer mis practicas sobre programación, desarrollo web y tecno
 ## 📫 Contacto
 
 - **GitHub:** [github.com/Elidiaz245](https://github.com/Elidiaz245)  
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/martin-elias-7124072a8?trk=contact-info)  
-- **Email:** [tu-email@ejemplo.com](martineliasdiazc2@gmai.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/martin-elias-7124072a8?trk=contact-info](https://www.linkedin.com/in/martin-elias-7124072a8?trk=contact-info)  
+- **Email:** [martineliasdiazc2@gmai.com](martineliasdiazc2@gmai.com)  
 
 ---
 
