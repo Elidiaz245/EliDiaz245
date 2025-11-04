@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **Elias Diaz**
 
-<!--
-**Elidiaz245/EliDiaz245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de Ingeniería (UNI)**.  
+💻 Actualmente estoy aprendiendo:
 
-Here are some ideas to get you started:
+- 🗄️ **SQL Server**
+- ⚙️ **C#**
+- 🌐 **Node.js**
+- 🎨 **HTML**
+- 💅 **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚽ **Hobbies**
+- Fútbol  
+- Videojuegos  
+
+---
+
+## 📫 **Contacto**
+- **GitHub:** [github.com/Elidiaz245](https://github.com/Elidiaz245)
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+
+---
+
+✨ *Gracias por visitar mi perfil.*
